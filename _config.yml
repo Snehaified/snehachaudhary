@@ -1,0 +1,55 @@
+title: "My Modern Portfolio"
+description: "Showcasing my projects and skills."
+#baseurl: ""
+#url: "https://yourusername.github.io"
+
+theme: minimal-mistakes-jekyll
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Projects Section
+projects:
+  - title: "AI Chatbot"
+    description: "An intelligent chatbot using NLP and machine learning."
+    output: "Deployed as a web application."
+    #image: "images/ai-chatbot.png"
+    #url: "https://github.com/yourusername/ai-chatbot"
+
+  - title: "E-commerce Website"
+    description: "A modern online store with React and Node.js."
+    output: "Fully functional shopping platform."
+    #image: "images/ecommerce.png"
+    #url: "https://github.com/yourusername/ecommerce"
+
+  - title: "Data Visualization Dashboard"
+    description: "Interactive dashboards with real-time data updates."
+    output: "Hosted as a web-based visualization tool."
+    #image: "images/data-viz.png"
+    #url: "https://github.com/yourusername/data-viz"
+
+  - title: "Mobile Expense Tracker"
+    description: "A cross-platform mobile app for tracking expenses."
+    output: "Available on Android and iOS."
+    #image: "images/expense-tracker.png"
+    #url: "https://github.com/yourusername/expense-tracker"
+
+  - title: "Portfolio Website"
+    description: "A sleek personal portfolio to showcase my work."
+    output: "Live on GitHub Pages."
+    #image: "images/portfolio.png"
+    #url: "https://yourusername.github.io"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
