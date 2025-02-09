@@ -3,7 +3,7 @@ description: "Showcasing my projects and skills."
 #baseurl: ""
 #url: "https://yourusername.github.io"
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 
 # Navigation links
 nav:
