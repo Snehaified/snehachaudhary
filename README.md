@@ -24,7 +24,7 @@ with the predicted mask</figcaption>
 ### **2️⃣ BioCrypt : Gradient-based facial encoding for key generation to encrypt and decrypt multimedia data**
 
 🔒  **Impact**: Resilience against attacks and enhanced security system for sensitive data
-🛠  **Tech Stack**: Python, Scikit-learn, AES, 
+🛠  **Tech Stack**: Python, Scikit-learn, AES, OpenCV
 
 🔹 Problem: Traditional password-based security is prone to hacking & forgetting, while biometric-only security can be spoofed or replayed.
 🔹 Solution: Developed a biocryptosystem using face recognition & AES encryption to securely encrypt and decrypt any type of file (text, audio, video).
@@ -46,7 +46,7 @@ Key Features & Results:
 🔹 Data archiving with enhanced security
 
 <figure>
-  <img src="assests/brain_tumor_detection.png" alt="Brain Tumor Detection" width="600">
+  <img src="assests/biocrypt_flowchart.png" alt="Brain Tumor Detection" width="600">
   <figcaption>Figure 1: Input MRI scan and its corresponding mask, the MRI image with the actual mask, the mask predicted by the ResUNet model and the MRI image 
 with the predicted mask</figcaption>
 </figure>
