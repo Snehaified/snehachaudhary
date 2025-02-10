@@ -3,4 +3,12 @@
 
 ### Projects
 In-Silico Detection and Segmentation of Brain Tumors Using Deep Learning and Image Processing
-- Developed an efficient in-silico approach for detecting and localizing brain tumors from MRI scans using Deep Learning and Image Processing techniques. Enhanced MRI images using CLAHE and filtering methods before passing them to a deep learning classifier to identify tumor presence. Implemented a segmentation model to highlight tumor regions at a pixel level, improving diagnostic accuracy. This solution aims to reduce cancer diagnosis costs and enable early tumor detection, potentially saving lives.
+🧠 **Impact**: Early and cost-effective detection of brain tumors, potentially saving lives.
+🛠  **Tech Stack**: Python, TensorFlow, OpenCV, CNNs, Image Processing
+
+- Developed an AI-based system to detect and localize brain tumors from MRI scans using Deep Learning.
+- Applied CLAHE and filtering techniques to enhance MRI images before classification.
+- Built a segmentation model to highlight tumors at the pixel level, improving diagnostic accuracy.
+- Enables early tumor detection, reducing cancer diagnosis costs.
+  
+
