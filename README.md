@@ -2,7 +2,7 @@
 💡 Passionate about leveraging **Artificial Intelligence** to solve real-world challenges in **healthcare, sustainability, and automation**.  
 
 ### Projects
-In-Silico Detection and Segmentation of Brain Tumors Using Deep Learning and Image Processing
+### **1️⃣ In-Silico Detection and Segmentation of Brain Tumors Using Deep Learning and Image Processing**
 
 🧠 **Impact**: Early and cost-effective detection of brain tumors, potentially saving lives.
 🛠  **Tech Stack**: Python, TensorFlow, OpenCV, CNNs, Image Processing
