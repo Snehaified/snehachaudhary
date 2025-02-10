@@ -12,4 +12,9 @@ In-Silico Detection and Segmentation of Brain Tumors Using Deep Learning and Ima
 - Built a segmentation model to highlight tumors at the pixel level, improving diagnostic accuracy.
 - Enables early tumor detection, reducing cancer diagnosis costs.
   
+<figure>
+  <img src="assests/brain_tumor_detection.png" alt="Brain Tumor Detection" width="600">
+  <figcaption>Figure 1: Input MRI scan and its corresponding mask, the MRI image with the actual mask, the mask predicted by the ResUNet model and the MRI image 
+with the predicted mask</figcaption>
+</figure>
 
