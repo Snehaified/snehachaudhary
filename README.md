@@ -1,4 +1,5 @@
-# 🎯 Software Engineer
+# 🎯 Software Engineer | AI Enthusiast
+💡 Passionate about leveraging **Artificial Intelligence** to solve real-world challenges in **healthcare, sustainability, and automation**.  
 
 ### Projects
 In-Silico Detection and Segmentation of Brain Tumors Using Deep Learning and Image Processing
